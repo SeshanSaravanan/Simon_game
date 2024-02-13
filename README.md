@@ -1,7 +1,7 @@
 # Simon Game
 
 ## Overview
-The Simon Game is a browser-based implementation of the classic electronic memory game. Players are challenged to repeat increasingly complex sequences of colors presented by the game. This repository contains the source code and assets required to run the Simon Game web application.
+The Simon Game is a browser-based implementation of the classic electronic memory game. Players are challenged to repeat increasingly complex sequences of colors presented by the game. This repository contains the source code, assets, and sounds required to run the Simon Game web application.
 
 ![Game Preview](game_preview.png) <!-- Add a preview image of the game here -->
 
@@ -28,6 +28,13 @@ To run the Simon Game locally, follow these steps:
 - The player must repeat the sequence by clicking the buttons in the correct order.
 - With each successful repetition, the game presents a longer sequence, increasing the challenge.
 - If the player makes a mistake, the game ends, and the player can restart by pressing any key.
+
+## Sounds
+The following sounds are included for the game keys:
+- `red.mp3`: Sound for the red key.
+- `blue.mp3`: Sound for the blue key.
+- `green.mp3`: Sound for the green key.
+- `yellow.mp3`: Sound for the yellow key.
 
 ## Interactive Features
 - Add an option to customize game difficulty.
