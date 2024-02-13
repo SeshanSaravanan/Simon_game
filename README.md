@@ -8,7 +8,7 @@ The Simon Game is a browser-based implementation of the classic electronic memor
 ## Features
 - Intuitive user interface.
 - Dynamic gameplay with increasing difficulty levels.
-- Responsive design for seamless experience across devices.
+- Responsive design for a seamless experience across devices.
 - Audio feedback for engaging gameplay.
 - Fully customizable styling with CSS.
 
@@ -38,7 +38,7 @@ The following sounds are included for the game keys:
 
 ## Interactive Features
 - Add an option to customize game difficulty.
-- Implement a high score system to track players' achievements.
+- Implement a high-score system to track players' achievements.
 - Include a leaderboard to display top scores.
 - Integrate social media sharing buttons for players to share their scores.
 
@@ -53,4 +53,4 @@ Contributions to the Simon Game project are welcome! If you encounter any bugs, 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
-The Simon Game project is developed and maintained by [Your Name or Organization]. Special thanks to the original creators and contributors of the Simon Game concept and its various implementations.
+The Simon Game project is developed and maintained by Seshan S. Special thanks to the original creators and contributors of the Simon Game concept and its various implementations.
